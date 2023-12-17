@@ -1,3 +1,7 @@
 # ninja log v5
 0	121	7245314720886356	CMakeFiles/git_lab1.dir/main.c.obj	89f4374c8d64cdd1
 123	327	7245314722917485	git_lab1.exe	f43291aecfc7cb7c
+3	129	7245321197997321	CMakeFiles/git_lab1.dir/main.c.obj	89f4374c8d64cdd1
+130	288	7245321199545682	git_lab1.exe	f43291aecfc7cb7c
+3	108	7245321320104236	CMakeFiles/git_lab1.dir/main.c.obj	89f4374c8d64cdd1
+109	244	7245321321334203	git_lab1.exe	f43291aecfc7cb7c
